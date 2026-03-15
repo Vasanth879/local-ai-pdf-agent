@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial AI agent project"
+git branch -M main
+git remote add origin https://github.com/YOURUSERNAME/local-ai-pdf-agent.git
+git push -u origin main
